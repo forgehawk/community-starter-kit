@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+App used to onboard new employees.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Sends helpful messages to guide new employees.
 
 ## Getting started
 
